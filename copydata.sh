@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft SDKs\Azure\AzCopy\AzCopy.exe" /Source:$1/pkAddress /Dest:$2/data /SourceKey:$3
